@@ -1,0 +1,84 @@
+{
+    "menu": [
+        {
+            "Appetizers":[{
+                "name": "House Salad",
+                "ingredients": ["Romain lettuce", "Organic Tomatoes", "Black-Olives", "Salt-and-Pepper", "Dressing (choice of : Ranch, Ceasar, Italian, and Creamy-Cilantro"],
+                "description": "Romain lettuce piled high with Tomatoes, Olives, and Red Onion. served with your choice of dressing"
+            },
+            {
+                "name": "Soup Of The Day",
+                "ingredients":["Monday- Chicken-Noodle", "Tuesday- Vegetable", "Wednesday- potato and Sausage", "Thursday- Tomato", "Friday- Clam Chowder", "Saturday- Split Pea", "Sunday- Cream of Mushroom"],
+                "description":"Fresh soup cooked daily with only the freshest organic ingredients"
+            }  
+        ] 
+        },
+        {
+            "Cold Sandwiches": [{
+                "name": "Ham and Cheese",
+                "ingredients":["Ham", "Cheese(american, provalone, swiss, or pepperjack)", "Mayonaise", "Mustard(deli or yellow)", "Bread(white, wheat, or sourdough)", "Sliced Vegetables(Tomato, onion, lettuce, and cucumber)"],
+                "description":"Ham and cheese stacked on you choice of bread with mayonaise, mustard and a stack of fresh cut vegetables to add as you desire"
+            },
+            {
+                "name": "Tuna",
+                "ingredients":["White Albacore Tuna mixed with ", "Mayonaise", "Black-Olives", "Celery", "and Onions", "Bread(white, wheat, or sourdough)"],
+                "description":"Amazing Tuna Salad on your choice of bread"
+            },
+            {
+                "name": "Turkey Bacon Club",
+                "ingredients":["Our Apple Wood thick cut bacon", "sliced turkey breast", "lettuce", "Mayonaise", "tomatoes", "Bread(white, wheat, or sourdough)"],
+                "description":"A turkey bacon club on your choice of bread"
+            }
+        ]
+        },
+        {
+            "Hot Sandwiches":[{
+                "name": "Cheese Steak",
+                "ingredients":["Thinly sliced steak", "grilled with bell peppers and sauteed onions", "Bread(white, wheat, or sourdough)"],
+                "description":"Our best shot at an original Philly Chees-Steak"
+            },
+            {
+                "name": "MeatBall",
+                "ingredients":["house made meat balls", "Bread(white, wheat, or sourdough)", "smotherd in marinara"],
+                "description":"The house favorite tender meat balls cheese and the perfect amount of marinara"
+            },
+            {
+                "name": "Tuna Melt",
+                "ingredients":["White Albacore Tuna mixed with ", "Mayonaise", "Black-Olives", "Celery", "and Onions", "Bread(white, wheat, or sourdough)"],
+                "description":"Amazing Tuna Salad on your choice of bread grilled with melted cheese"
+            }
+        ]
+        },
+        {
+            "Desserts":[{
+                "name": "white chipped brownie",
+                "ingredients":["white chocolate chips", "chocolate brownie"],
+                "description":"warm moist and fresh baked daily"
+            },
+            {
+                "name": "cookies",
+                "ingredients":["chocolate chip", "peanut butter", "white chocolate macademia nut"],
+                "description":"warm moist and baked daily"
+            }
+        ]
+        },
+        {
+            "Drinks":[{
+                "name": "coffe",
+                "ingredients":["coffe", "ypur choice of sugar and cream"],
+                "description":"always freshly brewed "
+            },
+            {
+                "name": "soft drinks",
+                "ingredients":["Sprite", "Coke", "Orange-Crush", "Dr. Pepper", "Root-Beer"],
+                "description":"Coca-Cola beverages"
+            },
+            {
+                "name": "Milk-Shake",
+                "ingredients":["Chocolate", "vanilla", "Strawberry"],
+                "description":"House made shakes with homemade ice-cream"
+            }
+        ]
+        }
+    ]
+}
