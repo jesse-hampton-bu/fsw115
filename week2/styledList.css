@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/d4/86/55/d486553a602ae175d76f47cdc30b63ce.jpg);
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    color: black;
+    background-color: rgba(255, 215, 0, 0.5);
+}
+
+li {
+    background-color: rgba(0, 0, 00, 0.9);
+}
